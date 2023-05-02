@@ -94,3 +94,4 @@ to pause Ruby code execution when it runs and inspect it.
 If you can complete each step without any issues and you see an output of a
 number around or above 60 from the last command, continue to the next lesson,
 **Configuring Git and GitHub on macOS**.
+Roshel
